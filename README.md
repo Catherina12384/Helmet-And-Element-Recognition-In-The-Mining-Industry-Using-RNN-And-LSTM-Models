@@ -163,6 +163,8 @@ This project can be a foundation for implementing an intelligent safety monitori
 
 ## Output
 
+Detection Accuracy: 95.9%
+
 ![image](https://github.com/user-attachments/assets/c4c36af7-c179-4352-9311-d6b51f9ede6f)
 
 ## References
