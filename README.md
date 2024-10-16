@@ -39,6 +39,8 @@ python helmet_recognition.py
 ### Running in Google Colab:
 1. Upload your video or image files to Colab using the file upload interface.
 2. Run the script in a notebook cell by following the prompt for video or image processing.
+
+Link: https://colab.research.google.com/drive/175A1PutHxjKpsf56g1q01fEwRc-acg_N#scrollTo=GHe2RDVMDsCg
    
 ## Input Options
 Once the script is running, you will be prompted to choose between processing either a video or an image:
