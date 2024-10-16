@@ -162,3 +162,35 @@ This project can be a foundation for implementing an intelligent safety monitori
 ## Output
 
 ![image](https://github.com/user-attachments/assets/c4c36af7-c179-4352-9311-d6b51f9ede6f)
+
+## References
+
+[ 1 ]	H. Shi and C. Liu, “Real-time helmet detection in mining environments using deep learning,” in Proceedings of the International Conference on Computer Vision, IEEE, 2021.
+
+[ 2 ]	S. Zhang, J. Liu, and X. Wang, “Worker mobility analysis in hazardous environments using RNNs,” in International Journal of Mining Science and Technology, vol. 32, no. 5, pp. 799–806, 2022.
+
+[ 3 ]	A. Kiani, H. Ghahremannezhad, and C. Liu, “Monitoring safety compliance in construction sites using LSTM networks,” in Journal of Safety Research, vol. 80, pp. 23–30, 2022.
+
+[ 4 ]	M. Ali, H. Hu, and R. Kumar, “Detection of hazardous elements in mining using computer vision,” in IEEE Transactions on Industrial Informatics, vol. 17, no. 1, pp. 310–319, 2021.
+
+[ 5 ]	T. Wang and J. Chen, “Using LSTM for real-time monitoring of worker safety in mining operations,” in Automation in Construction, vol. 120, 2021.
+
+[ 6 ]	H. Ghahremannezhad and C. Liu, “Enhancing safety in mining through intelligent surveillance systems,” in Proceedings of the IEEE International Conference on Intelligent Transportation Systems, pp. 1–6, 2020.
+
+[ 7 ]	G. Liu, H. Shi, and J. Lee, “Worker mobility tracking in hazardous conditions using RNNs,” in Machine Learning and Data Mining in Pattern Recognition, pp. 91–104, 2021.
+
+[ 8 ]	R. Kumar, A. Kiani, and H. Shi, “A deep learning approach for detecting PPE compliance in mining environments,” in Journal of Hazardous Materials, vol. 392, 2020.
+
+[ 9 ]	Y. Wang, H. Zhang, and D. Chen, “Spatio-temporal modeling for safety monitoring in industrial environments using LSTM,” in Applied Sciences, vol. 11, no. 15, 2021.
+
+[ 10 ]	H. Ali, M. Faruque, and C. Liu, “Predictive analytics for worker safety using RNNs in mining,” in IEEE Access, vol. 9, pp. 130245–130258, 2021.
+
+[ 11 ]	J. Yang, T. Huang, and X. Chen, “Real-time hazard recognition in industrial sites using deep learning techniques,” in Journal of Safety Research, vol. 78, pp. 45–53, 2022.
+
+[ 12 ]	C. Ma and A. Wang, “Harnessing deep learning for improving worker safety in mining operations,” in Safety Science, vol. 136, pp. 105150, 2021.
+
+[ 13 ]	S. Ramos and C. Rother, “Detecting safety gear compliance using deep learning in video surveillance,” in IEEE International Conference on Robotics and Automation, pp. 1234–1240, 2021.
+
+[ 14 ]	Y. Liu, H. Zhang, and D. Lee, “RNN-based analysis of worker movement patterns in hazardous environments,” in Artificial Intelligence for Engineering Design, Analysis and Manufacturing, vol. 35, no. 2, pp. 123–135, 2022.
+
+[ 15 ]	“NVIDIA DeepStream SDK,” [Online]. Available: https://developer.nvidia.com/deepstream-sdk. [Accessed: 2023-10-01].
