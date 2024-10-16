@@ -158,3 +158,7 @@ To terminate the script, close the terminal window or press Ctrl+C in the termin
 This system can be further optimized for real-time processing on edge devices or for streaming video input in industrial settings.
 
 This project can be a foundation for implementing an intelligent safety monitoring system that ensures workers in the mining industry follow safety protocols by wearing protective equipment like helmets, gloves, glasses, and masks.
+
+## Output
+
+![image](https://github.com/user-attachments/assets/c4c36af7-c179-4352-9311-d6b51f9ede6f)
